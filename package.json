@@ -1,0 +1,33 @@
+{
+  "name": "philippines",
+  "version": "1.0.0",
+  "description": "Provides a complete list of Philippine towns, cities, provinces and regions.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "data/"
+  ],
+  "scripts": {
+    "release": "npm publish && git push --follow-tags",
+    "major-release": "npm version major && npm run release",
+    "minor-release": "npm version minor && npm run release",
+    "patch-release": "npm version patch && npm run release"
+  },
+  "keywords": [
+    "philippines",
+    "towns",
+    "cities",
+    "provinces",
+    "regions"
+  ],
+  "author": {
+    "name": "Roy Evan Sia",
+    "email": "roy.evan.sia@gmail.com",
+    "url": "https://github.com/darklight721"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": "darklight721/philippines",
+  "license": "MIT"
+}
