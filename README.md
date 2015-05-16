@@ -1,4 +1,4 @@
-# Philippine
+# Philippines
 
 This provides a complete list of Philippine towns, cities, provinces and regions.
 
