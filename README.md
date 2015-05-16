@@ -17,7 +17,7 @@ npm install philippines
 Usage:
 
 ```
-// returns { regions: [...], provinces: [...], citiies: [...] }
+// returns { regions: [...], provinces: [...], cities: [...] }
 var philippines = require('philippines');
 
 // to get individual data
