@@ -1,11 +1,14 @@
 {
   "name": "philippines",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Provides a complete list of Philippine towns, cities, provinces and regions.",
   "main": "index.js",
   "files": [
+    "README.md",
     "index.js",
-    "data/"
+    "cities.json",
+    "provinces.json",
+    "regions.json"
   ],
   "scripts": {
     "release": "npm publish && git push --follow-tags",

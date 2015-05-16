@@ -503,7 +503,7 @@
   { "name": "Amadeo", "province": "CAV" },
   { "name": "Bacoor", "province": "CAV", "city": true },
   { "name": "Carmona", "province": "CAV" },
-  { "name": "Cavite", "province": "CAV", "city": true }
+  { "name": "Cavite", "province": "CAV", "city": true },
   { "name": "Dasmariñas", "province": "CAV", "city": true },
   { "name": "General Mariano Alvarez", "province": "CAV" },
   { "name": "General Emilio Aguinaldo", "province": "CAV" },
